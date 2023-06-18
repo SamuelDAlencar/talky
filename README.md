@@ -1,1 +1,3 @@
-# talky
+# talky 📲
+
+Color palette: 📲
