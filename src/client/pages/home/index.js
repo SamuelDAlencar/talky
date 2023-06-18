@@ -1,7 +1,7 @@
 import Footer from "../../components/footer";
 import Header from "../../components/header";
 
-function Home() {
+export default function Home() {
   return (
     <>
       <Header />
@@ -9,5 +9,3 @@ function Home() {
     </>
   );
 }
-
-export default Home;
