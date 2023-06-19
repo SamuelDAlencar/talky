@@ -1,9 +1,9 @@
-function Header() {
+import "./index.css";
+
+export default function Header() {
   return (
-    <header>
-      <h3>Header</h3>
+    <header className="header">
+      <img className="logo_img" src="t.png" />
     </header>
   );
 }
-
-export default Header;
