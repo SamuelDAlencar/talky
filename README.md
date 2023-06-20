@@ -1,3 +1,3 @@
 # talky 📲 (ongoing)
 
-Color palette: https://colorhunt.co/palette/fffbf5f7efe5c3acd0674188
+Color palette: https://colorhunt.co/palette/b799ffacbcffaee2ffe6fffd
