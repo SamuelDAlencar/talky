@@ -1,8 +1,54 @@
 .header {
-  padding: 10px;
-  background-color: #f7efe5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 5px 40px;
+  border-bottom: 1px solid #b799ff;
+}
+
+.logo_div {
+  display: flex;
+  align-items: center;
+  color: #8e74c9;
 }
 
 .logo_img {
-  width: 75px;
+  width: 80px;
+}
+
+.menuIcon_img {
+  width: 30px;
+  height: 30px;
+}
+
+.menu_button {
+  background-color: inherit;
+  border: 0;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  border-radius: 10px;
+  opacity: 60%;
+}
+
+.headerButtons_section {
+}
+
+.profileIcon_img,
+.settingsIcon_img,
+.friendsIcon_img {
+  width: 30px;
+  height: 30px;
+}
+
+.profileIcon_img,
+.friendsIcon_img {
+  margin-left: 15px;
+}
+
+/* --- Hovers --- */
+
+.menu_button:hover {
+  background-color: #acbdff50;
+  opacity: 80%;
 }
